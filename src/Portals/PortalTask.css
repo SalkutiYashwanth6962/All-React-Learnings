@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#btn{
+    background-color: orangered;
+    color:black;
+    padding:5px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    border: none;
+}
+#content{
+     height: 360px;
+     padding: 10px;
+     border-radius: 10px;
+     width: 300px;
+    text-align: center;
+    position:relative;
+    top:100px;
+    left:450px;
+    position: fixed;
+    background-color:burlywood;
+    
+}
+#parentContent{
+    background-color: aqua;
+    /* filter: blur(1px); */
+    /* -webkit-filter: blur(8px); */
+}
+
+
+.mainCont{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: aqua;
+}

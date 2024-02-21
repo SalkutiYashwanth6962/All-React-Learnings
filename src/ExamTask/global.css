@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#imgid{
+    position:relative;
+    top: 10px;
+    left: 1000px;
+}
+#countid{
+    position:relative;
+    bottom: 25px;
+    left: 979px;
+
+}
